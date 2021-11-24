@@ -12,6 +12,7 @@ for (i = 0; i < coll.length; i++) {
     }
   });
 }
+
 "use strict";
 (function () {
   // Global variables
